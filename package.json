@@ -1,0 +1,19 @@
+{
+  "name": "nilbridge",
+  "version": "1.0.0",
+  "description": "a protocol to connect minecarft bedrock server with websocket",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NilBridge/lib.git"
+  },
+  "keywords": [
+    "nilbridge"
+  ],
+  "author": "Lition",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NilBridge/lib/issues"
+  },
+  "homepage": "https://github.com/NilBridge/lib#readme"
+}
