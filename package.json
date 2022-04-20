@@ -10,10 +10,18 @@
   "keywords": [
     "nilbridge"
   ],
+  "types": "lib/index.d.ts",
   "author": "Lition",
   "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/NilBridge/lib/issues"
   },
-  "homepage": "https://github.com/NilBridge/lib#readme"
+  "homepage": "https://github.com/NilBridge/lib#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.25"
+  },
+  "dependencies": {
+    "md5-node": "^1.0.1",
+    "websocket": "^1.0.34"
+  }
 }
